@@ -46,7 +46,8 @@ Queenture is a luxury e-commerce platform tailored for anyone looking to furnish
 * **The Vibe:** Sleek, professional, and sophisticated UI/UX.
 * **The Goal:** To replace the cluttered feel of standard e-commerce with a high-end, gallery-like shopping experience. Every pixel was crafted to treat furniture not just as products, but as art pieces for the home.
 
-[🔗 View Figma Prototype](#) | [🔗 View Design Case Study](#)
+<!-- [🔗 View Figma Prototype](#) | --> 
+[🔗 View Design Case Study](https://menna-gamal-eldien.github.io/Queenture/)
 
 
 <!--
